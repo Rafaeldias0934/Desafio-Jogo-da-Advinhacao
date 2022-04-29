@@ -1,6 +1,6 @@
 # Desafio-Jogo-da-Advinhacao
 
-Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!
+Curso - Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!
 
 DESAFIO 6 -
 
