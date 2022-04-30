@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class DesafioJogoDaAdvinhacao {
     public static void main(String[] args) {
     int numeroAleatorio;
-        Scanner scan = new Scanner(System.in);
-        Random gerador = new Random();
-        numeroAleatorio = gerador.nextInt(100) + 1;
+    Scanner scan = new Scanner(System.in);
+    Random gerador = new Random();
+    numeroAleatorio = gerador.nextInt(100) + 1;
 
         for (int i = 10; i >= 1; i--) {
             System.out.println("Informe um número entre 0 e 100.");
