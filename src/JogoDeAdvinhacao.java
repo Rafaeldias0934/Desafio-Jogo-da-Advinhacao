@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class DesafioJogoDaAdvinhacao {
+public class JogoDeAdvinhacao {
     public static void main(String[] args) {
     int numeroAleatorio;
     Scanner scan = new Scanner(System.in);
